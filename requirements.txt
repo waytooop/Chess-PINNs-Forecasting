@@ -1,0 +1,20 @@
+# Core dependencies
+numpy>=1.20.0
+pandas>=1.3.0
+torch>=2.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Physics-informed neural networks
+deepxde>=1.0.0
+
+# API interaction
+requests>=2.25.0
+ratelimit>=2.2.1
+beautifulsoup4>=4.10.0
+
+# CLI interface
+click>=8.0.0
+
+# Testing
+pytest>=6.0.0
